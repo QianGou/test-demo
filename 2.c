@@ -12,4 +12,5 @@
 int main (int argc, char * argv[])
 {
     printf ("123");
+	printf ("9999");
 }
